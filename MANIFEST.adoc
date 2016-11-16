@@ -1,0 +1,31 @@
+= Commons Sense manifesto
+
+We, humble servants of the church of Common Sense, in a search of eternal truth
+we share this work with you to make a world a better place for all of us.
+
+== Scale with less
+
+In todays crazy world, world where the only value is business, business value,
+the widely accepted and practiced way to scale you organization or system is to
+scale by growth.
+
+We add more people to organization to deliver faster, to scale.
+
+We add more features to product, to make more money, to scale.
+
+We add more servers, to respond faster, to scale.
+
+We add layers of abstractions, to increase understanding. to scale.
+
+But it doesn't have to be like this, you can scale with less.
+
+
+== Repetition is learning (if it hurts do it more often)
+
+== Make yourself unnecessary (automate)
+
+== Back to the roots (understand the basic)
+
+== You can't know everything (surround yourself with experts)
+
+== If you can't change it, quit
